@@ -11,8 +11,10 @@ Création des éléments nécessaires :
   Un workspace
   Un lakehouse
   Un warehouse
-  Un pipeline d'ingestion comlet
+  Un pipeline d'ingestion complet
   Un notebook de requête des éléments
+  Modèle de données
+  Rapport
 
 
 # Seconde étape
